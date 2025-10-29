@@ -115,4 +115,5 @@ plt.show()
 """Cette ligne de code `fig, axes = plt.subplots(2, 2, figsize=(14, 10))` crée une figure (`fig`) et un ensemble de sous-graphiques (`axes`).
 - `2, 2` spécifie que la grille de sous-graphiques aura 2 lignes et 2 colonnes.
 - `figsize=(14, 10)` définit la taille de la figure en pouces, ce qui permet d'avoir suffisamment d'espace pour afficher les quatre graphiques.
+<img src="téléchargement.png" style="height:464px;margin-right:432px"/>
 """
