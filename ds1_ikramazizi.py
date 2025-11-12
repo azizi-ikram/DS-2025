@@ -15,7 +15,7 @@ Chargement du package
 
 """Cette cellule importe les bibliothèques requises : pandas pour la manipulation des données, numpy pour les opérations numériques, matplotlib et seaborn pour la visualisation des données."""
 
-import pandas as pd
+import pandas as pd 
 import numpy as np
 import matplotlib.pyplot as plt
 import seaborn as sns
