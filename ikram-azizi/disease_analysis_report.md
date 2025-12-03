@@ -2,7 +2,7 @@
 ## IKRAM AZIZI CAC 
 ## Compte Rendu d'Analyse : Classification des Observations de Maladies
 
-
+<img src="th (3).jpg" style="height:250px;margin-right:432px"/>
 ## 1. Introduction
 
 Ce rapport présente une analyse complète du jeu de données sur la classification des maladies, exploré dans le notebook Kaggle "Classification of Disease Observation". L'objectif principal est de classifier les maladies en fonction de diverses observations médicales et caractéristiques des patients.
